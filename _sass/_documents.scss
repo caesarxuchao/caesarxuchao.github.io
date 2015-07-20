@@ -14,8 +14,13 @@ div #doccontent {
         font-weight: 700;
         line-height: normal;
         letter-spacing: 0em;
-        padding-bottom: 12px;
         text-align: left;
+        padding-bottom: 0.3em;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-bottom-color: rgb(238, 238, 238);
+        margin-top: 0.83em;
+        margin-bottom: 0.83em;
     }
 
     h2 {
@@ -24,8 +29,13 @@ div #doccontent {
         font-weight: 700;
         line-height: normal;
         letter-spacing: 0em;
-        padding-bottom: 12px;
         text-align: left;
+        padding-bottom: 0.3em;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-bottom-color: rgb(238, 238, 238);
+        margin-top: 0.83em;
+        margin-bottom: 0.83em;
     }
 
     h3 {
@@ -35,6 +45,12 @@ div #doccontent {
         text-align: left;
         line-height: 40px;
         letter-spacing: 0em;
+        padding-bottom: 0.3em;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-bottom-color: rgb(238, 238, 238);
+        margin-top: 0.83em;
+        margin-bottom: 0.83em;
     }
 
     h4 {
@@ -43,11 +59,23 @@ div #doccontent {
         text-align: left;
         line-height: 32px;
         letter-spacing: 0em;
+        padding-bottom: 0.3em;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-bottom-color: rgb(238, 238, 238);
+        margin-top: 0.83em;
+        margin-bottom: 0.83em;
     }
 
     h5 {
         font-size: 20px;
         line-height: 24px;
+        padding-bottom: 0.3em;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-bottom-color: rgb(238, 238, 238);
+        margin-top: 0.83em;
+        margin-bottom: 0.83em;
     }
 
     li {
@@ -71,6 +99,7 @@ div #doccontent {
 
     pre {
         overflow-y: visible;
+        padding: 0.8em;
     }
 
     code {
@@ -92,8 +121,8 @@ div #doccontent {
     }
 
     p {
-        padding-bottom: 10px;
-        padding-top: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
     img {
