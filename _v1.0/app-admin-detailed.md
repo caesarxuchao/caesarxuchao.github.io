@@ -1,6 +1,7 @@
 ---
 layout: docwithnav
 title: "Application Administration: Detailed Walkthrough"
+redirect_to: "http://caesarxuchao.github.io"
 ---
 
 ## {{ page.title }} ##
