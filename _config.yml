@@ -91,7 +91,9 @@ collections:
    v1.0:
       output: true
       output_ext: .html
-
+   docs:
+      output: true
+      output_ext: .html
 # Page default settings
 defaults:
 -scope:
