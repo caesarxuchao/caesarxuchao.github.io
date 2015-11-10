@@ -1,7 +1,7 @@
 ---
 layout: docwithnav
 title: "Kubernetes API Reference"
-redirect_to: "http://caesarxuchao.github.io"
+redirect_to: "http://caesarxuchao.github.io/v1.1/index.html"
 ---
 
 ## {{ page.title }} ##
