@@ -87,8 +87,10 @@ include: [v1.1, v1.0]
 collections:
    v1.1:
       output: true
+      output_ext: .html
    v1.0:
       output: true
+      output_ext: .html
 
 # Page default settings
 defaults:
